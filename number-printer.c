@@ -2,6 +2,6 @@
 	
 	int main(){
 	int number = 120;
-	printf("%d", &number);
+	printf("%c", &number);
 	return 0;
 	}
