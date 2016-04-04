@@ -1,7 +1,7 @@
-	#include <stdio.h>
+#include <stdio.h>
 	
-	int main(){
-	int number = 120;
-	printf("%c", &number);
-	return 0;
-	}
+int main(){
+	int number = 100;
+	printf("%c", number);
+return 0;
+}
