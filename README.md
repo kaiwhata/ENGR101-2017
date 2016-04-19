@@ -1,10 +1,16 @@
-# Example_AVC_Repo
+# Example AVC Readme
+
 An example project repository for the ENGR101 autonomous vehicle challenge (AVC) 2016.
 This is a snapshot of a project taken part way through Week 2. The team has assessed their progress on their Week 1 objects, and has set and are working towards week 2 objective and are looking towards their week 3 objectives.
 
+| Parts  | Cost (Arthur$)  |
+| :------------ |:---------------:| 
+| Analog IR Sensor | $25 | 
+| Digital IR Sensor | $15 |
+| ...      | ... |
+
+
 A picture of our ideal robot is shown [here](/robot.jpg). 
-
-
 
 ###Week 1 Checklist
 - [x] Bonnie: Arrange team meetings 
