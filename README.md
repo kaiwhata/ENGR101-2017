@@ -5,10 +5,13 @@ This is a snapshot of a project taken part way through Week 2. The team has asse
 
 | Parts  | Cost (Arthur$)  |
 | :------------ |:---------------:| 
-| Analog IR Sensor | $25 | 
-| Digital IR Sensor | $15 |
+| Analog IR Sensor (medium range) | $25 | 
+| Digital IR Sensor (short range) | $15 |
+| Lever action Whisker push buttons (digital) | $10 |
+| 180◦ servos | $10 |
 | ...      | ... |
 
+Limited number of 3D printed parts 
 
 A picture of our ideal robot is shown [here](/robot.jpg). 
 
