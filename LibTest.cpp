@@ -238,37 +238,3 @@ int main()
        Sleep(0,50000);
        printf("DIG OUt:%d out of 250\n",count);
     }
-
-    /*************  CHECK MOTORS ******/
-   // set_motor(1,  255);
-    //SetMotor(2, 1, 255);
-    //Sleep(3,0);
-    //SetMotor(1, 1, 0);
-    //SetMotor(2, 1, 0);
-    //Sleep(3,0);
-    //SetMotor(1, 2, 255);
-    //SetMotor(2, 2, 255);
-    //Sleep(3,0);
-    //SetMotor(1, 2, 0);
-    //SetMotor(2, 2, 0);
-
-
-    /*
-    while(true){
-
-    printf("Library tester started\n");
-    int status= InitHardware();
-    if(ReadAnalog(0) > 400){
-      SetMotor(1, 1, 255);
-      SetMotor(2, 1, 255);
-      WriteDigital(7, 1);
-
-    }else{
-      SetMotor(2, 1, 0);
-      SetMotor(1, 1, 0);
-    }
-
-     Sleep(0, 500);
-    }
-    */
-}
