@@ -1,6 +1,6 @@
 # Example AVC Readme
 
-An example project repository for the ENGR101 autonomous vehicle challenge (AVC) 2016.
+An example project repository for the ENGR101 autonomous vehicle challenge (AVC) 2017.
 This is a snapshot of a project taken part way through Week 2. The team has assessed their progress on their Week 1 objects, and has set and are working towards week 2 objective and are looking towards their week 3 objectives.
 
 | Parts  | Cost (Arthur$)  |
@@ -27,7 +27,7 @@ A picture of our ideal robot is shown [here](/robot.jpg).
 - [ ] Leo: Develop prototype chassis
 - [ ] Leo: Implement sensor averaging
 
-####Week 1 Review (24th Apil 2016)
+####Week 1 Review (5th May 2017)
 * Everyone other than Leo did all their assigned tasks this week.
 * We have set goals for next week ([Week 2 Checklist](#week-2-checklist))
 * Bonnie will help Leo to catchup
@@ -53,7 +53,7 @@ Overall project plan
 
 | Week  | Team Objective(s)  | Items Due | Conflicting Committments | Tasks |
 | :------------ |:---------------:| ------: | ------: | ------: |
-| 1   | Robot moving | AVC Plan Due | PHYS122 test | [Week 1 Checklist](#week-1-checklist) | 
+| 1   | Robot moving | AVC Plan Due | ENGR101 test | [Week 1 Checklist](#week-1-checklist) | 
 | 2   |  |  | | [Week 2 Checklist](#week-2-checklist) |
 | 3   | Quadrant 1 complete |  | | [Week 3 Checklist](#week-3-checklist) |
 | ...     | ... | ... | ... | ... |
